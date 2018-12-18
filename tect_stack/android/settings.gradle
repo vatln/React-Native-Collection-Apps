@@ -1,0 +1,3 @@
+rootProject.name = 'tect_stack'
+
+include ':app'
